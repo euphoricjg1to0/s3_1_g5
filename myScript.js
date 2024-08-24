@@ -42,7 +42,7 @@ const virtualPet = {
     },
     updateImage: function() {
         let imageUrl = '';
-        if (this.type === "Fire Dragon") {
+        if (this.type === "Fire Dinosur") {
             imageUrl = 'images/img2.png';  // Replace with the actual image URL
         } else if (this.type === "Ghost Dragon") {
             imageUrl = 'images/img3.png';  // Replace with the actual image URL
