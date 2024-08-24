@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: hsl(282, 33%, 65%);
+    margin-top: 50px;
+}
+.pet-status {
+    margin-bottom: 20px;
+}
+.pet-image img{
+    max-width: 200px;
+    height: auto;
+}
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+}
+
